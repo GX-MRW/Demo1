@@ -1,4 +1,6 @@
 ser用户文件 edit by GX-MRW
 clone 仓库 aaa bbbb
+clone 仓库1  asdasd
+clone 仓库2 aaa
 GX-MRWU操作
 GX-MRWU再次操作
